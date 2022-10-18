@@ -1,1 +1,1 @@
-# test-vendor-alioth
+vendor-alioth
